@@ -1,0 +1,18 @@
+CONFIG:
+  ARENA-SPAWN:
+    X: 0
+    Y: 35
+    Z: 0
+    YAW: 1000
+    PITCH: 1000
+    WORLD: world
+  WAIT-SPAWN:
+    X: 100
+    Y: 35
+    Z: 100
+    YAW: 1000
+    PITCH: 1000
+    WORLD: world
+
+
+

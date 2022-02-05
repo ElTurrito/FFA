@@ -1,0 +1,10 @@
+name: FFA
+version: 1.0
+main: dev.waterfall.elturrito.FFA
+api-version: 1.18
+commands:
+  ffa:
+    description: anashei
+  spawn:
+    description: anashei
+
